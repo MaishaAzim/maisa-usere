@@ -1,1 +1,7 @@
-# maisa-usere
+
+
+### Installation
+```
+npm install
+
+```
